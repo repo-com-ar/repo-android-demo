@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Repo</string>
+    <string name="asset_statements">[{\"relation\":[\"delegate_permission/common.handle_all_urls\":], \"target\":{\"namespace\":\"android_app\", \"package_name\":\"ar.com.repo\", \"sha256_cert_fingerprints\":[\"6B:E4:AC:28:C3:1D:65:92:4D:ED:F5:F8:CF:72:8A:6E:4C:8C:F9:B9:3A:6B:E7:AF:99:AB:68:EF:FC:47:09:8A\"]}}]</string>
+    <string name="channel_id">ar.com.repo.notifications</string>
+    <string name="channel_name">Repo</string>
+    <string name="close_app">¿Seguro desea cerrar la aplicación?</string>
+    <string name="provider_authority">ar.com.repo.fileprovider</string>
+</resources>
